@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body.light {
+    background: #ffffff;
+    color: #000000;
+}
+
+body.dark {
+    background: #121212;
+    color: #ffffff;
+}
