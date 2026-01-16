@@ -1,0 +1,12 @@
+[
+  {"name": "adrod16",
+    "icon": "https://raw.githubusercontent.com/QLegacy/adrod16/refs/heads/main/shop/app.png",
+    "size": "150",
+    "age": "-67+",
+    "link": "https://github.com/QLegacy/adrod16/releases/download/tag/release.apk",
+    "description": "A funny prank about installing android 16.",
+    "screenshots": [
+        "https://via.placeholder.com/200x350",
+        "https://via.placeholder.com/200x350"
+      }
+]
